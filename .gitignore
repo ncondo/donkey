@@ -1,4 +1,5 @@
 env/*
+donkey_env/*
 data/*
 *.pyc
 .ipynb_checkpoints
